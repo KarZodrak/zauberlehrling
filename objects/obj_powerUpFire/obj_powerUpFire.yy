@@ -1,19 +1,10 @@
 {
-    "id": "db82a013-1fe0-4327-acc1-75dab10ea404",
+    "id": "dd8fa92b-0dd4-42b4-8377-7f80585b507e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "portal",
+    "name": "obj_powerUpFire",
     "eventList": [
-        {
-            "id": "ac929f93-b305-4b02-9fbc-859cb8a1e905",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "db82a013-1fe0-4327-acc1-75dab10ea404"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8087e292-c576-4674-b73f-49bc608a998b",
+    "spriteId": "7f5a364c-00d5-4d86-9923-7e26b779e726",
     "visible": true
 }
