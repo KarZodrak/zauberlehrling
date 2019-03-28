@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "240bd284-26c3-4953-8e28-275cb6ef222c",
+            "Value": {
+                "id": "cf9c13a6-4f49-4ac1-b920-f61666bf8306",
+                "resourcePath": "views\\240bd284-26c3-4953-8e28-275cb6ef222c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "303d732e-a20f-47cd-a703-cd7c873b28c5",
             "Value": {
                 "id": "d4279df8-240f-43b9-98a6-89e8f8c0ab97",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "8805e837-5702-41e7-b49f-07bcc35c8614",
+            "Value": {
+                "id": "7c501aec-4a15-470f-b52f-63a95f781093",
+                "resourcePath": "objects\\obj_playerSpawn\\obj_playerSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "889f3109-cd6e-4659-b94c-676fe09b1cf0",
             "Value": {
                 "id": "57c542bb-b419-4f26-b248-23e46343f6b6",
@@ -428,6 +444,14 @@
                 "id": "efc2337d-db90-407a-814e-6d885f2d133f",
                 "resourcePath": "objects\\obj_pickUpHealth\\obj_pickUpHealth.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b536ac5c-da78-474e-aa9e-827268c5ddae",
+            "Value": {
+                "id": "aac724d8-e80e-4287-bf19-8d7874c33789",
+                "resourcePath": "sprites\\spr_playerSpawn\\spr_playerSpawn.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
