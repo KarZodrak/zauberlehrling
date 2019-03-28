@@ -1,14 +1,24 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3EE8ED12
-/// @DnDArgument : "expr" "5"
+/// @DnDInput : 4
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr_1" "5"
+/// @DnDArgument : "expr_2" "50"
+/// @DnDArgument : "expr_3" "50"
 /// @DnDArgument : "var" "base_lives"
-base_lives = 5;
+/// @DnDArgument : "var_1" "max_lives"
+/// @DnDArgument : "var_2" "base_mana"
+/// @DnDArgument : "var_3" "max_mana"
+base_lives = 3;
+max_lives = 5;
+base_mana = 50;
+max_mana = 50;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4661E87C
-/// @DnDInput : 11
+/// @DnDInput : 13
 /// @DnDArgument : "expr" "4"
 /// @DnDArgument : "expr_1" "20"
 /// @DnDArgument : "expr_2" "30"
@@ -20,6 +30,8 @@ base_lives = 5;
 /// @DnDArgument : "expr_8" "1"
 /// @DnDArgument : "expr_9" "25"
 /// @DnDArgument : "expr_10" "5"
+/// @DnDArgument : "expr_11" "base_mana"
+/// @DnDArgument : "expr_12" "0.02"
 /// @DnDArgument : "var" "movement_speed"
 /// @DnDArgument : "var_1" "jump_speed"
 /// @DnDArgument : "var_2" "fireball_cooldown"
@@ -31,6 +43,8 @@ base_lives = 5;
 /// @DnDArgument : "var_8" "glide_speed"
 /// @DnDArgument : "var_9" "jump_speed_air"
 /// @DnDArgument : "var_10" "invincible_cooldown"
+/// @DnDArgument : "var_11" "player_mana"
+/// @DnDArgument : "var_12" "mana_regen"
 movement_speed = 4;
 jump_speed = 20;
 fireball_cooldown = 30;
@@ -42,6 +56,8 @@ player_gravity = 1;
 glide_speed = 1;
 jump_speed_air = 25;
 invincible_cooldown = 5;
+player_mana = base_mana;
+mana_regen = 0.02;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -53,6 +69,23 @@ invincible_cooldown = 5;
 health_chargeing = 0;
 gliding = 0;
 invicible = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 665ED37C
+/// @DnDInput : 4
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr_1" "25"
+/// @DnDArgument : "expr_2" "20"
+/// @DnDArgument : "expr_3" "1"
+/// @DnDArgument : "var" "cost_skill_air"
+/// @DnDArgument : "var_1" "cost_skill_earth"
+/// @DnDArgument : "var_2" "cost_skill_fire"
+/// @DnDArgument : "var_3" "cost_skill_water"
+cost_skill_air = 1;
+cost_skill_earth = 25;
+cost_skill_fire = 20;
+cost_skill_water = 1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

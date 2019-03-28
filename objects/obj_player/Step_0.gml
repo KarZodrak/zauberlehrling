@@ -110,8 +110,8 @@ if(health_chargeing == 1)
 		/// @DnDParent : 1F8AF3C0
 		/// @DnDArgument : "var" "player_lives"
 		/// @DnDArgument : "op" "1"
-		/// @DnDArgument : "value" "base_lives"
-		if(player_lives < base_lives)
+		/// @DnDArgument : "value" "max_lives"
+		if(player_lives < max_lives)
 		{
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -145,4 +145,22 @@ if(health_chargeing == 1)
 		/// @DnDArgument : "var" "heal_cooldown_tick"
 		heal_cooldown_tick = heal_cooldown;
 	}
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6869D555
+/// @DnDArgument : "var" "player_mana"
+/// @DnDArgument : "op" "1"
+/// @DnDArgument : "value" "max_mana"
+if(player_mana < max_mana)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 2493BD9C
+	/// @DnDParent : 6869D555
+	/// @DnDArgument : "expr" "mana_regen"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "player_mana"
+	player_mana += mana_regen;
 }
