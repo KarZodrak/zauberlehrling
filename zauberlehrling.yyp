@@ -400,6 +400,25 @@
             }
         },
         {
+            "Key": "6294f810-16a3-4c36-a5ff-c8e594003dda",
+            "Value": {
+                "id": "55be8600-47ce-43a9-a6c6-976e5829d355",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_flame_test\/spr_flame_test.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c13e3d3-15e8-404a-a83c-bc474a10f2af",
             "Value": {
                 "id": "ae290ee1-61ca-40b6-a1ef-4c429567ea52",
