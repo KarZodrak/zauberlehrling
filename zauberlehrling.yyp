@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "421fcc6c-4635-47b6-ab00-a48f589726fd",
+            "Value": {
+                "id": "d2077d9c-efd0-4208-aadb-ed2930a95cb3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_lava_test\/spr_lava_test.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49f59d3d-873f-44da-be44-e94fbd46bfd0",
             "Value": {
                 "id": "62b75505-467b-4e93-af73-caf212b2a0a9",
