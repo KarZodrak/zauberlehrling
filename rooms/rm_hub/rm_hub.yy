@@ -247,8 +247,6 @@
         "673f2517-20ac-4b42-80d3-3a41a46208fd",
         "24af599f-cbfa-440c-85d0-4b9dd44642d0",
         "84a32dac-7fee-4d39-8d44-dd042daf7685",
-        "67d9fa34-e3a9-40b1-a134-8dcc1d9b28eb",
-        "2ac73331-1231-4569-ab6d-0b9d27b11fd8",
         "589db526-aed4-4a4a-9d95-7dc2d69661f5",
         "709a11b4-c23f-469b-968a-29b5e9fc60ab",
         "15d939bb-2317-413c-ac0c-e332da1948b9",
@@ -276,14 +274,13 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_74CB19E","id": "67d9fa34-e3a9-40b1-a134-8dcc1d9b28eb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_74CB19E","objId": "7d3c20ba-d22b-4bea-ac1a-b6760cd98a36","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0},
-{"name": "inst_36D91AD4","id": "2ac73331-1231-4569-ab6d-0b9d27b11fd8","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_36D91AD4","objId": "deb49e09-bf89-4fbd-806f-47bcfaacc431","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1248,"y": 800}
+
             ],
             "layers": [
 
@@ -293,7 +290,7 @@
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
-            "visible": false
+            "visible": true
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",

@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "7990ad8f-2669-460e-b525-998a177599c3",
+            "Value": {
+                "id": "9440d02d-08df-4f20-aa89-79c671bb9328",
+                "resourcePath": "sprites\\spr_heal_channel\\spr_heal_channel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7d3c20ba-d22b-4bea-ac1a-b6760cd98a36",
             "Value": {
                 "id": "65716bb9-7bb0-450d-940d-c9dd356aea95",
@@ -327,11 +335,27 @@
             }
         },
         {
+            "Key": "8d0f131c-8f9e-4201-8c4c-aa31910221bc",
+            "Value": {
+                "id": "f4fcd777-845d-4c78-9d82-f62cb93f12b6",
+                "resourcePath": "views\\8d0f131c-8f9e-4201-8c4c-aa31910221bc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8e95d4cd-464f-4fea-b3fd-4f7fc5c45349",
             "Value": {
                 "id": "99b4849c-7b52-4f8f-940c-d61894788da7",
                 "resourcePath": "sprites\\spr_portalHub\\spr_portalHub.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f56ca77-2b4d-43c6-a78c-0c7a7ac03291",
+            "Value": {
+                "id": "8bf68438-6333-4987-bcea-bb9c04f6cf91",
+                "resourcePath": "objects\\obj_healEffect\\obj_healEffect.yy",
+                "resourceType": "GMObject"
             }
         },
         {
