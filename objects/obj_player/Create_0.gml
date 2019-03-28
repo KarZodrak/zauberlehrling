@@ -8,7 +8,7 @@ base_lives = 5;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4661E87C
-/// @DnDInput : 10
+/// @DnDInput : 11
 /// @DnDArgument : "expr" "4"
 /// @DnDArgument : "expr_1" "20"
 /// @DnDArgument : "expr_2" "30"
@@ -19,6 +19,7 @@ base_lives = 5;
 /// @DnDArgument : "expr_7" "1"
 /// @DnDArgument : "expr_8" "1"
 /// @DnDArgument : "expr_9" "25"
+/// @DnDArgument : "expr_10" "5"
 /// @DnDArgument : "var" "movement_speed"
 /// @DnDArgument : "var_1" "jump_speed"
 /// @DnDArgument : "var_2" "fireball_cooldown"
@@ -29,6 +30,7 @@ base_lives = 5;
 /// @DnDArgument : "var_7" "player_gravity"
 /// @DnDArgument : "var_8" "glide_speed"
 /// @DnDArgument : "var_9" "jump_speed_air"
+/// @DnDArgument : "var_10" "invincible_cooldown"
 movement_speed = 4;
 jump_speed = 20;
 fireball_cooldown = 30;
@@ -39,15 +41,18 @@ heal_cooldown = 60;
 player_gravity = 1;
 glide_speed = 1;
 jump_speed_air = 25;
+invincible_cooldown = 5;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 44A1A3D8
-/// @DnDInput : 2
+/// @DnDInput : 3
 /// @DnDArgument : "var" "health_chargeing"
 /// @DnDArgument : "var_1" "gliding"
+/// @DnDArgument : "var_2" "invicible"
 health_chargeing = 0;
 gliding = 0;
+invicible = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
