@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "12d881fa-492b-42b5-ab4c-74c224764026",
+            "Value": {
+                "id": "acdd594f-68b5-4893-bd0f-092b71fe934c",
+                "resourcePath": "rooms\\rm_boss\\rm_boss.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "13ea844e-2c8e-40b0-b399-98928bb66899",
             "Value": {
                 "id": "cf513106-a117-4615-bc06-fb1b0e876d95",
@@ -92,6 +100,14 @@
                 "id": "4e13d2ee-e211-429d-8485-ee56f29bdb01",
                 "resourcePath": "rooms\\rm_fire\\rm_fire.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "354527f4-3fee-4e5f-8c9f-ad5dd491f609",
+            "Value": {
+                "id": "01d0b9ae-37c6-4f67-835a-efb410a11c5b",
+                "resourcePath": "sprites\\spr_portalFire\\spr_portalFire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -148,6 +164,14 @@
                 "id": "93a80f3a-2680-4eef-8d3c-65bcbe219495",
                 "resourcePath": "rooms\\rm_air\\rm_air.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4afb04de-a3ed-4d38-b1e5-3f782930bbcd",
+            "Value": {
+                "id": "2a0c6b3d-4b94-4380-82d3-49c51b9fe9e3",
+                "resourcePath": "sprites\\spr_portalAir\\spr_portalAir.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -242,7 +266,7 @@
             "Key": "8087e292-c576-4674-b73f-49bc608a998b",
             "Value": {
                 "id": "bb3275af-e7e7-4df7-848f-70bc5b2c3bf1",
-                "resourcePath": "sprites\\spr_portal\\spr_portal.yy",
+                "resourcePath": "sprites\\spr_portalEarth\\spr_portalEarth.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -279,10 +303,26 @@
             }
         },
         {
+            "Key": "8e95d4cd-464f-4fea-b3fd-4f7fc5c45349",
+            "Value": {
+                "id": "99b4849c-7b52-4f8f-940c-d61894788da7",
+                "resourcePath": "sprites\\spr_portalHub\\spr_portalHub.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "902918d2-c699-4b86-80d0-ae9d5b2b2207",
             "Value": {
                 "id": "9349f41d-004b-4b9c-bee4-427d6d44e174",
                 "resourcePath": "sprites\\spr_powerUpEarth\\spr_powerUpEarth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9176287d-117f-4de9-be66-06314723b0f0",
+            "Value": {
+                "id": "4d79c108-c896-428d-93d5-cc231dbb9a33",
+                "resourcePath": "sprites\\spr_portalWater\\spr_portalWater.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -364,6 +404,14 @@
                 "id": "dfce7106-1271-4275-bf25-4acfb94ba0c7",
                 "resourcePath": "views\\bac82dae-2c89-4d23-967b-f67a05b27b72.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bde1665e-ec66-4cb0-9d6e-5bc74a05b538",
+            "Value": {
+                "id": "08dd55ef-31cc-4f7d-85a5-a711dbfbd9ec",
+                "resourcePath": "sprites\\spr_portalBoss\\spr_portalBoss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
