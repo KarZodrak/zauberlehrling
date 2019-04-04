@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0f620293-8791-4883-8309-a5e8ba45fe4c",
+            "Value": {
+                "id": "dcd8b419-1d2f-46e4-a68c-7126f941e0c2",
+                "resourcePath": "sprites\\spr_fireball_splat\\spr_fireball_splat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "112b90c2-21ee-41df-a995-d99b75f50081",
             "Value": {
                 "id": "4b794482-3dbd-4a9e-b444-7d7a1647da9a",
@@ -212,6 +220,14 @@
                 "id": "00d8e7c5-47ee-4ea9-ba3c-22075cc7a936",
                 "resourcePath": "fonts\\fnt_default\\fnt_default.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "4f40e84c-d75d-4967-b26b-e767703306e2",
+            "Value": {
+                "id": "234358fb-088b-4fc5-8a7b-e381fd9a30eb",
+                "resourcePath": "objects\\obj_fireball_splat\\obj_fireball_splat.yy",
+                "resourceType": "GMObject"
             }
         },
         {
