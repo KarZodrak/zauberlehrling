@@ -21,6 +21,15 @@ heal_cooldown_tick += -1;
 /// @DnDArgument : "expr" "place_free(x,y+1)"
 if(place_free(x,y+1))
 {
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 0EDCD84E
+	/// @DnDParent : 0B8C2763
+	/// @DnDArgument : "spriteind" "spr_player_jump"
+	/// @DnDSaveInfo : "spriteind" "3af6df99-20cd-420c-871d-ce83c40da436"
+	sprite_index = spr_player_jump;
+	image_index = 0;
+
 	/// @DnDAction : YoYo Games.Movement.Set_Gravity_Force
 	/// @DnDVersion : 1
 	/// @DnDHash : 4E99CA7E
