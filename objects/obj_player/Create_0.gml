@@ -31,7 +31,7 @@ max_mana = 50;
 /// @DnDArgument : "expr_9" "25"
 /// @DnDArgument : "expr_10" "5"
 /// @DnDArgument : "expr_11" "base_mana"
-/// @DnDArgument : "expr_12" "0.02"
+/// @DnDArgument : "expr_12" "0.05"
 /// @DnDArgument : "var" "movement_speed"
 /// @DnDArgument : "var_1" "jump_speed"
 /// @DnDArgument : "var_2" "fireball_cooldown"
@@ -57,7 +57,7 @@ glide_speed = 1;
 jump_speed_air = 25;
 invincible_cooldown = 5;
 player_mana = base_mana;
-mana_regen = 0.02;
+mana_regen = 0.05;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -74,18 +74,18 @@ invicible = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 665ED37C
 /// @DnDInput : 4
-/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr" "0.5"
 /// @DnDArgument : "expr_1" "25"
 /// @DnDArgument : "expr_2" "20"
-/// @DnDArgument : "expr_3" "1"
+/// @DnDArgument : "expr_3" "0.25"
 /// @DnDArgument : "var" "cost_skill_air"
 /// @DnDArgument : "var_1" "cost_skill_earth"
 /// @DnDArgument : "var_2" "cost_skill_fire"
 /// @DnDArgument : "var_3" "cost_skill_water"
-cost_skill_air = 1;
+cost_skill_air = 0.5;
 cost_skill_earth = 25;
 cost_skill_fire = 20;
-cost_skill_water = 1;
+cost_skill_water = 0.25;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
