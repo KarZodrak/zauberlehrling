@@ -742,6 +742,25 @@
             }
         },
         {
+            "Key": "8f22cbeb-2e51-40bc-86cf-e4e5259f5de5",
+            "Value": {
+                "id": "311e603c-2f2a-4577-93fa-3fa40b2c55d0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_torch\/spr_torch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "91703f13-663d-4cd7-a76d-574296601610",
             "Value": {
                 "id": "f69f7f15-36e8-4f76-aa31-d32e7977e21f",
@@ -1119,6 +1138,25 @@
                 ],
                 "resourcePath": "objects\/obj_earthblock\/obj_earthblock.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da30feee-d957-4b9c-8dba-a3cba9f873ce",
+            "Value": {
+                "id": "766800bf-28c1-45ae-85db-7a446f195650",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_hardened_lava\/spr_hardened_lava.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -8,6 +8,7 @@
         "1d4a0b21-fe68-479a-ad51-b9265372db8c",
         "bd078ebe-8455-4e09-8647-139aec332830",
         "91703f13-663d-4cd7-a76d-574296601610",
+        "da30feee-d957-4b9c-8dba-a3cba9f873ce",
         "c3c3c902-ad53-4535-9a59-f0ebcbaa1e64",
         "e7ded26f-deae-4c91-816f-932e709f7a87",
         "151ade92-2d37-4fea-afa1-f5dbfc60a997",
@@ -24,7 +25,8 @@
         "3fd96e09-69ad-47ef-a1ec-0be89504f312",
         "2e2e8d0f-0ec7-4a6d-9633-38575a5cd74a",
         "6294f810-16a3-4c36-a5ff-c8e594003dda",
-        "421fcc6c-4635-47b6-ab00-a48f589726fd"
+        "421fcc6c-4635-47b6-ab00-a48f589726fd",
+        "8f22cbeb-2e51-40bc-86cf-e4e5259f5de5"
     ],
     "filterType": "GMSprite",
     "folderName": "level_fire",
