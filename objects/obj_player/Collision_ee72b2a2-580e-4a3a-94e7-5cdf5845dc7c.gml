@@ -6,9 +6,9 @@ speed = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 53CCB4A3
-/// @DnDArgument : "spriteind" "spr_player"
-/// @DnDSaveInfo : "spriteind" "056ed14a-ddeb-49b8-8ac3-449a2a6ea6ba"
-sprite_index = spr_player;
+/// @DnDArgument : "spriteind" "spr_player_64"
+/// @DnDSaveInfo : "spriteind" "d807030f-098a-4eec-839e-df95c776ce88"
+sprite_index = spr_player_64;
 image_index = 0;
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
