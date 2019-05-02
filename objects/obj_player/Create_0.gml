@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 0A2E3B2E
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "cheat"
+cheat = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 3EE8ED12
 /// @DnDInput : 4
 /// @DnDArgument : "expr" "3"
@@ -31,7 +38,7 @@ max_mana = 50;
 /// @DnDArgument : "expr_9" "25"
 /// @DnDArgument : "expr_10" "5"
 /// @DnDArgument : "expr_11" "base_mana"
-/// @DnDArgument : "expr_12" "0.05"
+/// @DnDArgument : "expr_12" "0.1"
 /// @DnDArgument : "var" "movement_speed"
 /// @DnDArgument : "var_1" "jump_speed"
 /// @DnDArgument : "var_2" "fireball_cooldown"
@@ -57,7 +64,7 @@ glide_speed = 1;
 jump_speed_air = 25;
 invincible_cooldown = 5;
 player_mana = base_mana;
-mana_regen = 0.05;
+mana_regen = 0.1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

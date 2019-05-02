@@ -5,7 +5,8 @@
     "name": "fc105fe2-7202-438f-9f16-0d8dfdb4b6c6",
     "children": [
         "db82a013-1fe0-4327-acc1-75dab10ea404",
-        "f03a97bd-ac5b-44a7-9409-57e1e1c2b7d3"
+        "f03a97bd-ac5b-44a7-9409-57e1e1c2b7d3",
+        "024955ce-3f57-4d82-85eb-c40e341709d9"
     ],
     "filterType": "GMObject",
     "folderName": "interactionObjects",
