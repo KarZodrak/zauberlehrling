@@ -11,7 +11,8 @@
         "9176287d-117f-4de9-be66-06314723b0f0",
         "bde1665e-ec66-4cb0-9d6e-5bc74a05b538",
         "a361eb45-100d-415b-a625-c58e003a680f",
-        "eeed1184-7299-4bb8-baa9-eddce066d62f"
+        "eeed1184-7299-4bb8-baa9-eddce066d62f",
+        "3b95e578-674e-48dc-8228-6436137e6212"
     ],
     "filterType": "GMSprite",
     "folderName": "interactionObjects",
