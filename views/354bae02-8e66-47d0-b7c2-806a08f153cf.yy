@@ -26,7 +26,8 @@
         "2e2e8d0f-0ec7-4a6d-9633-38575a5cd74a",
         "6294f810-16a3-4c36-a5ff-c8e594003dda",
         "421fcc6c-4635-47b6-ab00-a48f589726fd",
-        "8f22cbeb-2e51-40bc-86cf-e4e5259f5de5"
+        "8f22cbeb-2e51-40bc-86cf-e4e5259f5de5",
+        "2bf388c1-2853-4404-9bd4-24d6e8e736ef"
     ],
     "filterType": "GMSprite",
     "folderName": "level_fire",
