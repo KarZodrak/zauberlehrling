@@ -126,3 +126,29 @@ power_water = 0;
 /// @DnDArgument : "expr" """"
 /// @DnDArgument : "var" "debug"
 debug = "";
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 78B02BFD
+/// @DnDInput : 7
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr_1" """"
+/// @DnDArgument : "expr_2" "600"
+/// @DnDArgument : "expr_3" "80"
+/// @DnDArgument : "expr_4" "600"
+/// @DnDArgument : "expr_5" "500"
+/// @DnDArgument : "expr_6" "10"
+/// @DnDArgument : "var" "showTutorial"
+/// @DnDArgument : "var_1" "tutorialText"
+/// @DnDArgument : "var_2" "boxWidth"
+/// @DnDArgument : "var_3" "boxHeight"
+/// @DnDArgument : "var_4" "posX"
+/// @DnDArgument : "var_5" "posY"
+/// @DnDArgument : "var_6" "padding"
+showTutorial = 1;
+tutorialText = "";
+boxWidth = 600;
+boxHeight = 80;
+posX = 600;
+posY = 500;
+padding = 10;
