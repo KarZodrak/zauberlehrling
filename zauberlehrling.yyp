@@ -607,6 +607,25 @@
             }
         },
         {
+            "Key": "afd1fb4f-2c1a-4a8d-8ab4-f3b168e0c587",
+            "Value": {
+                "id": "f145ea8b-c114-49d1-8454-d85fc932a0e2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_waterfall\/obj_waterfall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b536ac5c-da78-474e-aa9e-827268c5ddae",
             "Value": {
                 "id": "aac724d8-e80e-4287-bf19-8d7874c33789",
