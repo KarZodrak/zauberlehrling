@@ -571,6 +571,25 @@
             }
         },
         {
+            "Key": "658d4d75-3a0f-4d78-9cdf-5a7846ac24d7",
+            "Value": {
+                "id": "5a8b1bc2-5b9f-4b22-9f8c-248f807fa34e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_float\/spr_float.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c13e3d3-15e8-404a-a83c-bc474a10f2af",
             "Value": {
                 "id": "ae290ee1-61ca-40b6-a1ef-4c429567ea52",
