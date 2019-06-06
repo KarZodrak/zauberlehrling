@@ -311,6 +311,25 @@
             }
         },
         {
+            "Key": "56996969-77c3-45c5-87e2-a31eff40a1be",
+            "Value": {
+                "id": "59e32bba-89d0-4847-8d63-01db6473d351",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_bridge\/spr_bridge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4f40e84c-d75d-4967-b26b-e767703306e2",
             "Value": {
                 "id": "234358fb-088b-4fc5-8a7b-e381fd9a30eb",
@@ -764,6 +783,25 @@
                 "id": "f54d6a94-3317-47e6-9d8a-67ba7223f350",
                 "resourcePath": "views\/d62d773e-6a2b-4061-949a-14e36ccd3f50.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7ec4d60-437e-4038-ba98-ded06fc3253f",
+            "Value": {
+                "id": "9e81d547-3ca8-4914-b0d8-a3a7ed42823d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/Titelset_deko\/Titelset_deko.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
