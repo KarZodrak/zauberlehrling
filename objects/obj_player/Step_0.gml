@@ -36,6 +36,25 @@ if(place_free(x,y+1))
 	/// @DnDParent : 0B8C2763
 	/// @DnDArgument : "force" "player_gravity"
 	gravity = player_gravity;
+
+	/// @DnDAction : YoYo Games.Collisions.If_Object_At
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 4A23C86F
+	/// @DnDParent : 0B8C2763
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y_relative" "1"
+	/// @DnDArgument : "object" "obj_waterfall"
+	/// @DnDSaveInfo : "object" "afd1fb4f-2c1a-4a8d-8ab4-f3b168e0c587"
+	var l4A23C86F_0 = instance_place(x + 0, y + 0, obj_waterfall);
+	if ((l4A23C86F_0 > 0))
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 63A427B5
+		/// @DnDParent : 4A23C86F
+		/// @DnDArgument : "var" "speed"
+		speed = 0;
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else

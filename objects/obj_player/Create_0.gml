@@ -69,13 +69,15 @@ mana_regen = 0.1;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 44A1A3D8
-/// @DnDInput : 3
+/// @DnDInput : 4
 /// @DnDArgument : "var" "health_chargeing"
 /// @DnDArgument : "var_1" "gliding"
 /// @DnDArgument : "var_2" "invicible"
+/// @DnDArgument : "var_3" "moving_plat"
 health_chargeing = 0;
 gliding = 0;
 invicible = 0;
+moving_plat = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
