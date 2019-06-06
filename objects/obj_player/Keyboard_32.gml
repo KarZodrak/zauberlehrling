@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 11DF079E
+/// @DnDArgument : "var" "moving_plat"
+moving_plat = 0;
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 23B1992D
