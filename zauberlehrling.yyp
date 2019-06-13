@@ -894,6 +894,25 @@
             }
         },
         {
+            "Key": "64f50b6d-7bda-4749-8e06-f757ba5fb492",
+            "Value": {
+                "id": "25c2d03e-291f-4275-a3b0-5309cd74b541",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_fire_trap\/obj_fire_trap.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6c13e3d3-15e8-404a-a83c-bc474a10f2af",
             "Value": {
                 "id": "ae290ee1-61ca-40b6-a1ef-4c429567ea52",
@@ -1993,6 +2012,25 @@
                 ],
                 "resourcePath": "sprites\/spr_player_64_walk\/spr_player_64_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec1414ea-ad3c-4e6c-8263-0d6ed550803f",
+            "Value": {
+                "id": "4bf4c415-105b-4095-803a-6b64de6b470e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_torch\/obj_torch.yy",
+                "resourceType": "GMObject"
             }
         },
         {
