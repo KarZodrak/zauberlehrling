@@ -1,8 +1,8 @@
 {
-    "id": "72d60af2-f06d-4ca0-8b75-1201d490e8d7",
+    "id": "cd1f69be-6280-4ebf-a49a-45aac310f41a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_thorns",
+    "name": "obj_fire_glove",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3b95e578-674e-48dc-8228-6436137e6212",
+    "spriteId": "259ad79b-9836-45ad-afac-110f5c8a31d6",
     "visible": true
 }

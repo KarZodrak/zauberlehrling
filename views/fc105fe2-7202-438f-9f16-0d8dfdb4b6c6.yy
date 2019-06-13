@@ -10,7 +10,8 @@
         "72d60af2-f06d-4ca0-8b75-1201d490e8d7",
         "18e5ca07-bc5c-4b57-ba14-6f87f66d316a",
         "afd1fb4f-2c1a-4a8d-8ab4-f3b168e0c587",
-        "ec1414ea-ad3c-4e6c-8263-0d6ed550803f"
+        "ec1414ea-ad3c-4e6c-8263-0d6ed550803f",
+        "cd1f69be-6280-4ebf-a49a-45aac310f41a"
     ],
     "filterType": "GMObject",
     "folderName": "interactionObjects",

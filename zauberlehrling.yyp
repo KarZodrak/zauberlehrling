@@ -381,6 +381,25 @@
             }
         },
         {
+            "Key": "259ad79b-9836-45ad-afac-110f5c8a31d6",
+            "Value": {
+                "id": "becc1612-248b-457e-b7c1-4a0ab113f042",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_fire_glove\/spr_fire_glove.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2bf388c1-2853-4404-9bd4-24d6e8e736ef",
             "Value": {
                 "id": "d5157991-7b4f-4be9-a52f-2e3a94246acb",
@@ -1803,6 +1822,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd1f69be-6280-4ebf-a49a-45aac310f41a",
+            "Value": {
+                "id": "d163738f-1882-4fa9-b890-78a6ba6e76a3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_fire_glove\/obj_fire_glove.yy",
+                "resourceType": "GMObject"
             }
         },
         {
