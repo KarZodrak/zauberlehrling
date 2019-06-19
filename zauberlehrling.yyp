@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "458d56d8-3367-4b3d-98bd-042eacc910a1",
+            "Value": {
+                "id": "efc4f77b-cf4e-41e3-825f-93be5367ab40",
+                "resourcePath": "objects\\obj_trap2\\obj_trap2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "49f59d3d-873f-44da-be44-e94fbd46bfd0",
             "Value": {
                 "id": "62b75505-467b-4e93-af73-caf212b2a0a9",
@@ -484,6 +492,22 @@
                 "id": "57c542bb-b419-4f26-b248-23e46343f6b6",
                 "resourcePath": "rooms\/rm_start\/rm_start.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "88d56abc-7cd3-4894-b248-ddc660078bef",
+            "Value": {
+                "id": "efca4c4d-fcf4-49c9-af13-65710a0927db",
+                "resourcePath": "sprites\\sprite47\\sprite47.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89b5604a-7e2c-41b1-adeb-707a09a1f545",
+            "Value": {
+                "id": "69c0644d-9527-4089-841a-657893505d16",
+                "resourcePath": "sprites\\air_background\\air_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -788,6 +812,14 @@
                 "id": "8c9f562c-1775-4150-bd24-edb061adfc70",
                 "resourcePath": "objects\/obj_earthblock\/obj_earthblock.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db1bc5ea-b7a3-48f5-b59a-afa90c194a87",
+            "Value": {
+                "id": "70635570-13e7-4278-9bde-6057363a0f4b",
+                "resourcePath": "tilesets\\Tileset_Air\\Tileset_Air.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
