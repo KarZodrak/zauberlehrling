@@ -1,6 +1,7 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 70630E41
-/// @DnDArgument : "room" "rm_hub"
-/// @DnDSaveInfo : "room" "b8138f03-7f88-4c9d-8423-1bf9db4a0fdc"
-room_goto(rm_hub);
+/// @DnDHash : 0955675D
+/// @DnDArgument : "objectid" "obj_intro"
+/// @DnDArgument : "layer" ""Front""
+/// @DnDSaveInfo : "objectid" "f9845a30-35f1-4a20-accc-a8ddc7da7ea9"
+instance_create_layer(0, 0, "Front", obj_intro);

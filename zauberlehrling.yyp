@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "2c7217d1-49ba-414e-a892-17c9733aaaa2",
+            "Value": {
+                "id": "a33dcbac-2204-47b8-8cab-be4e58b9f5a3",
+                "resourcePath": "sprites\\spr_intro_text\\spr_intro_text.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "301c0e3e-d877-4831-8d89-24e904dd43b5",
             "Value": {
                 "id": "58a2da81-66c2-433a-8b35-3b94819b9b99",
@@ -1116,6 +1124,14 @@
                 "id": "e1ae22f2-7dfd-412b-bcf5-e41438884559",
                 "resourcePath": "sprites\/Mage_sheet_64\/Mage_sheet_64.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9845a30-35f1-4a20-accc-a8ddc7da7ea9",
+            "Value": {
+                "id": "eca35188-d445-44aa-af66-8087909c4b12",
+                "resourcePath": "objects\\obj_intro\\obj_intro.yy",
+                "resourceType": "GMObject"
             }
         },
         {
