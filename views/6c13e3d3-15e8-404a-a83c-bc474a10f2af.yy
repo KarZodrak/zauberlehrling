@@ -9,7 +9,8 @@
         "c25c2059-e9b6-4ff9-b057-257577e234a5",
         "a3d84372-073c-411b-9fb6-f820afa4c960",
         "950cd860-2382-4ea0-add7-9dd726c6b22f",
-        "b4595891-f35c-475f-ba9d-d9295181b36b"
+        "b4595891-f35c-475f-ba9d-d9295181b36b",
+        "22d39c41-78c3-46a9-a7d4-aa88278832b0"
     ],
     "filterType": "GMSprite",
     "folderName": "level_earth",
