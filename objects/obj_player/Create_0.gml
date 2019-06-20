@@ -9,16 +9,16 @@ cheat = 1;
 /// @DnDVersion : 1
 /// @DnDHash : 3EE8ED12
 /// @DnDInput : 4
-/// @DnDArgument : "expr" "3"
-/// @DnDArgument : "expr_1" "5"
+/// @DnDArgument : "expr" "6"
+/// @DnDArgument : "expr_1" "10"
 /// @DnDArgument : "expr_2" "50"
 /// @DnDArgument : "expr_3" "50"
 /// @DnDArgument : "var" "base_lives"
 /// @DnDArgument : "var_1" "max_lives"
 /// @DnDArgument : "var_2" "base_mana"
 /// @DnDArgument : "var_3" "max_mana"
-base_lives = 3;
-max_lives = 5;
+base_lives = 6;
+max_lives = 10;
 base_mana = 50;
 max_mana = 50;
 
@@ -36,7 +36,7 @@ max_mana = 50;
 /// @DnDArgument : "expr_7" "1"
 /// @DnDArgument : "expr_8" "1"
 /// @DnDArgument : "expr_9" "25"
-/// @DnDArgument : "expr_10" "5"
+/// @DnDArgument : "expr_10" "10"
 /// @DnDArgument : "expr_11" "base_mana"
 /// @DnDArgument : "expr_12" "0.1"
 /// @DnDArgument : "var" "movement_speed"
@@ -62,7 +62,7 @@ heal_cooldown = 60;
 player_gravity = 1;
 glide_speed = 1;
 jump_speed_air = 25;
-invincible_cooldown = 5;
+invincible_cooldown = 10;
 player_mana = base_mana;
 mana_regen = 0.1;
 
