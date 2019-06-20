@@ -285,16 +285,16 @@ if(player_mana < max_mana)
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 575038D1
+/// @DnDHash : 0458ED58
 /// @DnDArgument : "var" "y"
 /// @DnDArgument : "op" "2"
-/// @DnDArgument : "value" "room_height+256"
-if(y > room_height+256)
+/// @DnDArgument : "value" "room_height"
+if(y > room_height)
 {
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1
-	/// @DnDHash : 70DE6D09
-	/// @DnDParent : 575038D1
+	/// @DnDHash : 4F4BC2F4
+	/// @DnDParent : 0458ED58
 	/// @DnDArgument : "x" "0"
 	/// @DnDArgument : "y" "0"
 	x = 0;
@@ -302,7 +302,7 @@ if(y > room_height+256)
 
 	/// @DnDAction : YoYo Games.Rooms.Restart_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 0C57D22A
-	/// @DnDParent : 575038D1
+	/// @DnDHash : 18A2EE2E
+	/// @DnDParent : 0458ED58
 	room_restart();
 }
