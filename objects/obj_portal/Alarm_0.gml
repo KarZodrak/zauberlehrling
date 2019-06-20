@@ -70,8 +70,8 @@ if(targetLevel == rm_water)
 /// @DnDVersion : 1
 /// @DnDHash : 37480908
 /// @DnDArgument : "var" "targetLevel"
-/// @DnDArgument : "value" "rm_boss"
-if(targetLevel == rm_boss)
+/// @DnDArgument : "value" "rm_end"
+if(targetLevel == rm_end)
 {
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1

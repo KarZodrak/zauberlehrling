@@ -9,7 +9,7 @@ if(cheat == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 123865EB
 	/// @DnDParent : 59AF4206
-	/// @DnDArgument : "room" "rm_boss"
-	/// @DnDSaveInfo : "room" "12d881fa-492b-42b5-ab4c-74c224764026"
-	room_goto(rm_boss);
+	/// @DnDArgument : "room" "rm_end"
+	/// @DnDSaveInfo : "room" "017bed2e-85aa-468d-8fde-a9fc3d1ebc15"
+	room_goto(rm_end);
 }
